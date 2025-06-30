@@ -15,7 +15,7 @@ A simple Netflix UI clone built with **React.js** and styled using CSS. Movie da
 
 ## 📸 Screenshots
 
-![Screenshot](src/assets/screenshot.png)
+![Netflix Clone Screenshot](./src/assets/screenshot.png)
 
 ---
 
